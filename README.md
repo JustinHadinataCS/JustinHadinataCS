@@ -8,7 +8,8 @@
   <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Linked In-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
 <a href="https://justinhadinata.com">
   <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-7C3AED?style=for-the-badge&logo=person-fill&logoColor=white"/></a>
-
+<a href="mailto:justinhadinata.23@gmail.com">
+  <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Email-F97316?style=for-the-badge&logo=mail&logoColor=white"/></a>
 
 
   
