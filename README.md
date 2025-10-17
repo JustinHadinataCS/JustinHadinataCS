@@ -7,4 +7,4 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,git,docker,shadcn,sentry,figma,postman,vercel,railway)
 
 ## 💻 Stats
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=JustinHadinataCS&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=JustinHadinataCS&theme=tokyonight&include_all_commits=true)](https://git.io/streak-stats)
