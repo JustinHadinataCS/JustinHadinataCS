@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Justin Hadinata</h1>
-<h3 align="left">A full-stack web developer who specializes in the MERN stack.</h3>
+<img src ="Banner.png"/>
+<p align="left">I'm a Computer Science student at Binus International with hands-on experience building complex web applications. I enjoy tackling challenges and learning new technologies.</p>
 
 ## 💻 Tech Stacks
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,expressjs,mongodb,nodejs,js,typescript,zustand,reactquery,redux,tailwind)
