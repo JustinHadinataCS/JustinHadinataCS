@@ -1,5 +1,9 @@
 <img src ="Banner.png"/>
-<p align="left">I'm a Computer Science student at Binus International with hands-on experience building complex web applications. I enjoy tackling challenges and learning new technologies.</p>  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+<p align="left">I'm a Computer Science student at Binus International with hands-on experience building complex web applications. I enjoy tackling challenges and learning new technologies.</p>
+
+<p align="left">I'm currently working on <a href="https://focora.ai">Focora</a>, a productivity platform built to track and analyze your habits and identify bottlenecks with AI.</p>
+
+<a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
 <a href="https://www.linkedin.com/in/justin-hadinata-3347712a1/">
   <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Linked In-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
 <a href="https://justinhadinata.com">
