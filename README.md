@@ -6,3 +6,5 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactrouter,styledcomponents,redis,firebase,nextjs,socketio,mysql,postgresql,html,css)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,git,docker,shadcn,sentry,figma,postman,vercel,railway)
 
+## 💻 Stats
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=JustinHadinataCS&theme=tokyonight)](https://git.io/streak-stats)
