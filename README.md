@@ -8,4 +8,3 @@
 
 ## ⚡ Stats
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=JustinHadinataCS&theme=tokyonight&include_all_commits=true)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustinHadinataCS&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true)
