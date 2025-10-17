@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/justin-hadinata-3347712a1/">
   <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Linked In-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
 <a href="https://justinhadinata.com">
-  <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-7C3AED?style=for-the-badge&logo=person&logoColor=white"/></a>
+  <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-7C3AED?style=for-the-badge&logo=person-fill&logoColor=white"/></a>
 
 
 
