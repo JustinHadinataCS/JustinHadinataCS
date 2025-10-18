@@ -2,7 +2,7 @@
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=JustinHadinataCS.JustinHadinataCS" />
 <p align="left">I'm a Computer Science student at Binus International with hands-on experience building complex web applications. I enjoy tackling challenges and learning new technologies.</p>
 
-<p align="left">I'm currently working on <a href="https://example.com">Focora</a>, a productivity platform built to track and analyze your habits and identify bottlenecks with AI. If you encounter any bugs, don't hesitate to contact me!</p>
+<p align="left">I'm currently working on <a href="https://focora.ai">Focora</a>, a productivity platform built to track and analyze your habits and identify bottlenecks with AI. If you encounter any bugs, don't hesitate to contact me!</p>
 
 <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
 <a href="https://www.linkedin.com/in/justin-hadinata-3347712a1/">
