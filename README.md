@@ -15,9 +15,9 @@
 
   
 ## 💻 Tech Stacks
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,expressjs,mongodb,nodejs,js,typescript,zustand,reactquery,redux,tailwind)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactrouter,styledcomponents,redis,firebase,nextjs,socketio,mysql,postgresql,html,css)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,git,docker,shadcn,sentry,figma,postman,vercel,railway)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,expressjs,mongodb,nodejs,js,typescript,zustand,reactquery,redux,tailwind&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactrouter,styledcomponents,redis,firebase,nextjs,socketio,mysql,postgresql,html,css&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jest,git,docker,shadcn,sentry,figma,postman,vercel,railway&theme=dark)
 
 ## ⚡ Stats
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=JustinHadinataCS&theme=tokyonight&include_all_commits=true)](https://git.io/streak-stats)
