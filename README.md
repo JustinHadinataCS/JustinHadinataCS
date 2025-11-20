@@ -1,5 +1,5 @@
 <img src ="Banner.png"/>
-<img  src="https://visitor-badge.laobi.icu/badge?page_id=JustinHadinataCS.JdustinHadinataCS" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JustinHadinataCS.JdustinHadinataCS" />
 <p align="left">I'm a Computer Science student at Binus International with hands-on experience building complex web applications. I enjoy tackling challenges and learning new technologies.</p>
 
 <p align="left">I'm currently working on <a href="https://focora.ai">Focora</a>, a productivity platform built to track and analyze your habits and identify bottlenecks with AI. If you encounter any bugs, don't hesitate to contact me!</p>
